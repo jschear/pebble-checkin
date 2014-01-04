@@ -1,8 +1,0 @@
-argv = ['/Users/jschear/dev/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', 'configure', 'build']
-environ = {'_': '/Users/jschear/dev/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', 'SSH_AUTH_SOCK': '/tmp/launch-lHDSLy/Listeners', 'SHELL': '/bin/bash', 'LOGNAME': 'jschear', 'USER': 'jschear', 'HOME': '/Users/jschear', 'ITERM_PROFILE': 'Default', 'PATH': '/Users/jschear/dev/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin:/usr/local:/usr/local/bin:/Applications/Racket v5.3.6/bin:/Applications/Android Studio.app/sdk/tools:/Applications/Android Studio.app/sdk/platform-tools:/Users/jschear/dev/pebble-dev/PebbleSDK-2.0-BETA4/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin', 'DISPLAY': '/tmp/launch-7NeAPt/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/9w/qy9hgyyj4x5ghr8r_k9b1vfm0000gn/T/', 'TERM_PROGRAM': 'iTerm.app', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm', 'Apple_PubSub_Socket_Render': '/tmp/launch-RjUU6r/Render', 'COLORFGBG': '7;0', 'SHLVL': '2', 'ITERM_SESSION_ID': 'w0t0p0', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/jschear/dev/pebble-dev/checkin', 'PEBBLE_PHONE': '192.168.1.2', '__CHECKFIX1436934': '1'}
-files = ['/Users/jschear/dev/pebble-dev/checkin/wscript']
-hash = 4672844372416070989
-options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
-out_dir = '/Users/jschear/dev/pebble-dev/checkin/build'
-run_dir = '/Users/jschear/dev/pebble-dev/checkin'
-top_dir = '/Users/jschear/dev/pebble-dev/checkin'
