@@ -1,0 +1,42 @@
+{
+  "uuid": "4107a8de-e3ee-4c74-855d-4fa9dcdcbbd3",
+  "shortName": "Pebble-Checkin",
+  "longName": "Pebble-Checkin",
+  "companyName": "Jonathan Schear",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_CHECK",
+        "file": "check.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_X",
+        "file": "x.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MENU",
+        "file": "checkin.png",
+        "menuIcon": true
+      }
+    ]
+  },
+  "appKeys": {
+    "fetchVenues": 0,
+    "checkin": 1,
+    "venueId": 2,
+    "name": 3,
+    "address": 4,
+    "index": 5,
+    "error": 6,
+    "numVenues": 7
+  },
+  "capabilities": [ "location", "configurable" ]
+}
