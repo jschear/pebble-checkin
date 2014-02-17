@@ -1,0 +1,9 @@
+Splash Screen
+	-- Icon
+	-- (Check if connected)
+
+List Menu of Locations 
+	(change to 6 and decrease timeout)
+
+Confirm Screen
+	-- Action bar: top = x, middle = more, bottom = check
